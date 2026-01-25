@@ -1,40 +1,57 @@
 # Solid Rocket Motor V1.0
 
 ## Overview
-This repository contains the design, analysis, manufacturing documentation,
-and test planning for a solid rocket motor developed by Liberty Rocketry Propulsion. 
-The work included in this repo is soley my work.
+This repository documents the design, analysis, manufacturing planning, and test preparation of a solid rocket motor developed under the Liberty University Rocketry program.  
+All work contained herein represents my individual technical contributions to the project.
+
+The intent of this repository is to demonstrate engineering methodology, analytical rigor, and documentation practices appropriate for an undergraduate propulsion-focused design project.
+
+## Project Objectives
+- Design a flight-capable solid rocket motor meeting thrust and burn time requirements  
+- Perform first-order and higher-fidelity propulsion analyses  
+- Develop manufacturing drawings and process documentation
+- Manufacture in-house all components
+- Plan a compliant and instrumented static test campaign  
+- Maintain traceable engineering documentation suitable for review and iteration  
 
 ## Contents
-- `documents/` –  Available documents
-- `media/` – Photos and videos from manufacturing and testing
+- `documents/` – Design reports, analyses, calculations, and supporting documentation  
+- `media/` – Photos and videos from manufacturing preparation and testing activities  
 
 ## Motor Summary
-- Propellant: RNX 71V
-- Chamber Pressure: 4.136 MPa
-- Thrust (nominal): 1200 N
-- Burn Time: 4 s
-- Expansion Ratio: 13
+| Parameter | Value |
+|---------|------|
+| Propellant | RNX-71V |
+| Chamber Pressure | 4.136 MPa |
+| Nominal Thrust | 1200 N |
+| Burn Time | 4 s |
+| Nozzle Expansion Ratio | 13 |
 
-## Repository Structure
-See directory-level README files for details on analysis, CAD, and testing.
+## Technical Scope
+The work represented in this repository includes:
+- Internal ballistics and performance modeling  
+- Nozzle sizing and expansion analysis  
+- Structural and thermal considerations for the motor casing  
+- Preliminary manufacturing and assembly planning  
+- Static test configuration and data acquisition planning  
 
 ## Status
-- Design: Complete
-- Analysis: Validated
-- Manufacturing: Pending
-- Testing: Planned
+- **Design:** Complete  
+- **Analysis:** Validated  
+- **Manufacturing:** Pending  
+- **Testing:** Planned  
 
 ## Disclaimer
-This repository is for educational and research purposes only.
-No instructions are provided for illegal or unsafe use.
+This repository is intended strictly for educational and research purposes.  
+It does **not** provide instructions, procedures, or guidance for the fabrication or use of rocket motors outside of approved academic or professional settings.  
+All experimental work associated with this project is subject to institutional safety review and applicable regulatory requirements.
 
 ---
 
 **Author:** Collin Quirke  
 
-**Team:** Liberty University Rocketry
+**Team:** Liberty University Rocketry  
 
-**Sub-Team:** Propulsion 
+**Sub-Team:** Propulsion  
 
-**Time Frame:** Septembe 2025 - May 2026
+**Time Frame:** September 2025 – May 2026  
