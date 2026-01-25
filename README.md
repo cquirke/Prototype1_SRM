@@ -15,8 +15,12 @@ The intent of this repository is to demonstrate engineering methodology, analyti
 - Maintain traceable engineering documentation suitable for review and iteration  
 
 ## Contents
-- `documents/` – Design reports, analyses, calculations, and supporting documentation  
-- `media/` – Photos and videos from manufacturing preparation and testing activities  
+- `analysis/` – Analytical models, hand calculations, and performance evaluations  
+- `cad/` – Mechanical design files, drawings, and assemblies  
+- `documents/` – Design reports, requirements, and supporting documentation  
+- `manufacturing/` – Manufacturing plans, tooling concepts, and process documentation  
+- `simulations/` – Numerical simulations and supporting models  
+- `testing/` – Test planning, instrumentation layouts, and data analysis  
 
 ## Motor Summary
 | Parameter | Value |
